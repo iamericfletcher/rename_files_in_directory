@@ -8,7 +8,7 @@ This program assumes that the total number of files with the same extension in t
 to the number of names in the `names` array. Otherwise, the program will error out since two files cannot have the 
 same name. 
 
-Also, the program assumes that the directory does not contain subdirectories.
+Also, the program does not enter nor rename subdirectories.
 
 I plan on making the program more robust such that it can:
 
