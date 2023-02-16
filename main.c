@@ -5,16 +5,15 @@
 #include <sys/stat.h>
 
 const char *names[] = {
-        "arvind",
-        "dahleh",
-        "dicarlo",
-        "goemans",
-        "grossman",
-        "ozdaglar",
-        "perakis",
-        "pesetsky",
-        "torralba",
-        "wang"
+        "Smith",
+        "Johnson",
+        "Garcia",
+        "Brown",
+        "Jones",
+        "Davis",
+        "Williams",
+        "Rodriguez",
+        "Miller"
 };
 const int names_count = sizeof(names) / sizeof(names[0]);
 
